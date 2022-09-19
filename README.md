@@ -1,2 +1,3 @@
 # hello-world
-A tutorial to learn the GitHub way
+## About this repository
+This repository is a tutorial for me to learn the GitHub way
